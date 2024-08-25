@@ -1,0 +1,11 @@
+Flexbox
+justify-content: Aligns flex items along the main axis (e.g., center, flex-start, space-between).
+align-items: Aligns flex items along the cross axis (e.g., center, flex-end, stretch).
+Grid
+grid-template-columns: Defines the structure and size of columns in the grid (e.g., 1fr 1fr for equal columns).
+gap: Sets the spacing between grid items (e.g., gap: 10px).
+CSS Variables (Custom Properties)
+Purpose: Store reusable values in your CSS for consistency and easier maintenance.
+Syntax:
+Declare: --primary-color: #FE451B;
+Use: color: var(--primary-color);
